@@ -1,0 +1,24 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "framework css ThatMuch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatMuch/cosmos.git"
+  },
+  "keywords": [
+    "framework",
+    "css",
+    "ThatMuch"
+  ],
+  "author": "ThatMuch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatMuch/cosmos/issues"
+  },
+  "homepage": "https://github.com/ThatMuch/cosmos#readme"
+}
