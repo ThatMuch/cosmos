@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ThatMuch/cosmos/issues"
   },
-  "homepage": "https://github.com/ThatMuch/cosmos#readme"
+  "homepage": "https://github.com/ThatMuch/cosmos#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
 }
